@@ -1,2 +1,4 @@
+import interface
 import function
-function.calcular()
+
+interface
